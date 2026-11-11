@@ -59,4 +59,4 @@ A partir de la ejecución del script analítico sobre el dataset de Sakila, se e
 
 1. Clonar el repositorio:
    ```bash
-   git clone [
+   git clone [https://github.com/Hannibal-Caballero/Sakila-Queries.git]
